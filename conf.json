@@ -1,0 +1,5 @@
+{
+  "hosts": ["172.31.1.117", "172.31.33.33", "172.31.32.33"],
+  "remote_username": "gpudb",
+  "remote_password": "gisfed11"
+}
